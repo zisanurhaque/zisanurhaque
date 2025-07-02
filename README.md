@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Zisanur Haque
 #### A Passionate Programmer
-A Passionate Programmer
 
 I am Zisanur Haque, a seasoned Web Developer and Programmer committed to delivering high-quality web applications and REST APIs within the robust MERN Stack. My proficiency extends to React.js for crafting dynamic and user-centric frontends, and Node.js with Express.js for building scalable and efficient backends.
 
