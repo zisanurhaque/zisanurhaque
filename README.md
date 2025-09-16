@@ -1,11 +1,11 @@
-# Hi there, I'm Zisanur Haque 👋
+# Hi there, I'm Zisanur Haque
 
 **Fullstack Developer(Next Js & Django) | 3+ Years of International Remote Experience**  
 **BBA Honours Professional Student | Based in Bangladesh | Working Globally**
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a passionate developer with experience delivering scalable web applications for clients in the **US, UK, Canada, Netherlands, and more**. I started programming in **6th grade** and have been learning and working professionally for **6+ years**.  
 
@@ -13,7 +13,7 @@ I specialize in **building reliable, maintainable, and high-performing web appli
 
 ---
 
-## 💼 What I Do
+## What I Do
 
 - **Frontend Development:** Next.js, React.js, TypeScript, Tailwind CSS, shadcn/ui  
 - **Backend Development:** Django, REST APIs, PostgreSQL, MySQL  
@@ -23,7 +23,7 @@ I specialize in **building reliable, maintainable, and high-performing web appli
 
 ---
 
-## 🌟 Key Achievements
+## Key Achievements
 
 - Successfully delivered **remote projects for multiple international clients**.  
 - Built scalable **analytics and eCommerce platforms** used by real businesses.  
@@ -32,7 +32,7 @@ I specialize in **building reliable, maintainable, and high-performing web appli
 
 ---
 
-## 🔧 Skills
+## Skills
 
 | Frontend | Backend | Tools & Cloud | Other |
 |---------|--------|---------------|-------|
@@ -42,7 +42,7 @@ I specialize in **building reliable, maintainable, and high-performing web appli
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### 1. **Gazior Platform**
 - A multi-hub platform for marketing, sales, AI, and analytics.  
@@ -60,7 +60,7 @@ I specialize in **building reliable, maintainable, and high-performing web appli
 
 ---
 
-## 📈 Why Work With Me
+## Why Work With Me
 
 - **Professional & Trustworthy:** 3+ years remote experience with international clients.  
 - **End-to-End Solutions:** From architecture to deployment.  
@@ -69,7 +69,7 @@ I specialize in **building reliable, maintainable, and high-performing web appli
 
 ---
 
-## 📫 Get In Touch
+## Get In Touch
 
 - **LinkedIn:** [linkedin.com/in/zisanurhaque](https://linkedin.com/in/zisanurhaque)  
 - **Portfolio:** [zisanurhaque.vercel.app](https://zisanurhaque.vercel.app)  
