@@ -1,6 +1,6 @@
 # Hi there, I'm Zisanur Haque
 
-**Fullstack Developer(Next Js & Django) | 3+ Years of International Remote Experience**  
+**Fullstack Developer(Next Js & Django) | 3+ Years of International Remote Experience** | 
 **BBA Honours Professional Student | Based in Bangladesh | Working Globally**
 
 ---
