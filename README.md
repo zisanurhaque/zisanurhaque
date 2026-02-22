@@ -1,23 +1,24 @@
 # Hi there, I'm Zisanur Haque
 
-**Fullstack Developer(Next Js & Django) | 3+ Years of International Remote Experience** | 
-**BBA Honours Professional Student | Based in Bangladesh | Working Globally**
+** Software Developer | Product Engineering, Scalable Systems & ETL Pipelines | Next.js & Python (Django/FastAPI) **
 
 ---
 
 ## About Me
 
-I’m a passionate developer with experience delivering scalable web applications for clients in the **US, UK, Canada, Netherlands, and more**. I started programming in **6th grade** and have been learning and working professionally for **6+ years**.  
+I'm Zisanur Haque, a Software Developer specializing in designing and building scalable, business critical software systems. With 3.5+ years delivering production platforms for international clients, I create SaaS products, BI dashboards, and automation solutions that improve performance, reduce costs, and enable global scalability.
 
-I specialize in **building reliable, maintainable, and high-performing web applications**, with a focus on **scalable frontend architectures, BI platforms, and automation solutions**. My goal is to **secure high-value remote jobs or contracts** where I can deliver impact and innovation.
+I partner with distributed teams across the US, UK, Canada, and Europe to architect, build, and deploy reliable systems that balance technology, performance, and usability. My work bridges robust backend architectures, intuitive frontend interfaces, and business impact.
+
+I'm advancing my skills in cloud platforms, DevOps, and enterprise architecture, positioning myself to deliver end to end solutions as a future Solution Architect.
 
 ---
 
 ## What I Do
 
-- **Frontend Development:** Next.js, React.js, TypeScript, Tailwind CSS, shadcn/ui  
-- **Backend Development:** Django, REST APIs, PostgreSQL, MySQL  
-- **Business Intelligence:** Analytics platforms, dashboard creation, data ingestion pipelines  
+- **Frontend Development:** Next.js, React.js, TypeScript, Tailwind CSS, shadcn/ui, Websocket
+- **Backend Development:** Django, REST APIs, PostgreSQL, MySQL , Celery, RabbitMQ, Channels 
+- **Business Intelligence:** Analytics platforms, dashboard creation, ETL pipelines  
 - **Cloud & DevOps:** Azure, Docker, CI/CD pipelines  
 - **Automation & AI Integration:** Intelligent workflows for eCommerce and enterprise apps  
 
@@ -25,9 +26,9 @@ I specialize in **building reliable, maintainable, and high-performing web appli
 
 ## Key Achievements
 
-- Successfully delivered **remote projects for multiple international clients**.  
+- Successfully delivered **remote projects for multiple international teams and clients**.  
 - Built scalable **analytics and eCommerce platforms** used by real businesses.  
-- Expertise in **multi-tenant systems, high-traffic apps, and complex data workflows**.  
+- Expertise in **multi tenant systems, high traffic apps, and complex data workflows**.  
 - Strong focus on **trust, reliability, and clean code** to build lasting client relationships.  
 
 ---
@@ -60,21 +61,8 @@ I specialize in **building reliable, maintainable, and high-performing web appli
 
 ---
 
-## Why Work With Me
-
-- **Professional & Trustworthy:** 3+ years remote experience with international clients.  
-- **End-to-End Solutions:** From architecture to deployment.  
-- **Problem-Solver:** I deliver scalable, maintainable, and reliable systems.  
-- **Learning & Growth Mindset:** Always exploring new technologies and approaches.  
-
----
-
 ## Get In Touch
 
 - **LinkedIn:** [linkedin.com/in/zisanurhaque](https://linkedin.com/in/zisanurhaque)  
 - **Portfolio:** [zisanurhaque.vercel.app](https://zisanurhaque.vercel.app)  
-
----
-
-> “I help businesses and clients transform ideas into high-performing web solutions.”
 
