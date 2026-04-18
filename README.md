@@ -57,7 +57,7 @@ I'm advancing my skills in cloud platforms, DevOps, and enterprise architecture,
 - Ingested large datasets (1GB+) and built interactive dashboards.  
 - Implemented caching, rate limiting, and reliable APIs for performance.
 
-### 4. **FastAPI Shipping Service (Shippo Integration)**
+### 4. [FastAPI Shipping Service (Shippo Integration)](https://github.com/zisanurhaque/shippo-fastapi)
  - Built a modular FastAPI backend simulating real-world shipping workflows (address → shipment → tracking)
  - Integrated Shippo API for rate generation, label purchase, tracking, and webhook handling
 
