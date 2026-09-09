@@ -1,12 +1,12 @@
 # Hi there, I'm Zisanur Haque
 
-** Software Developer | Product Engineering, Scalable Systems & ETL Pipelines | Next.js & Python (Django/FastAPI) **
+Technical Product Architect & Product Engineer | Turning Complex Business Workflows, Marketplaces & Data into Production-Ready Software Systems | Next.js • Python • System Design
 
 ---
 
 ## About Me
 
-I'm Zisanur Haque, a Software Developer specializing in designing and building scalable, business critical software systems. With 3.5+ years delivering production platforms for international clients, I create SaaS products, BI dashboards, and automation solutions that improve performance, reduce costs, and enable global scalability.
+I'm Zisanur Haque, a Technical Product Architect & Product Engineer, Turning Complex Business Workflows, Marketplaces & Data into Production-Ready Software Systems. With 4+ years delivering production platforms for international clients, I create SaaS products, BI dashboards, and automation solutions that improve performance, reduce costs, and enable global scalability.
 
 I partner with distributed teams across the US, UK, Canada, and Europe to architect, build, and deploy reliable systems that balance technology, performance, and usability. My work bridges robust backend architectures, intuitive frontend interfaces, and business impact.
 
