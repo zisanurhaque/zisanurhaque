@@ -53,8 +53,11 @@ I'm advancing my skills in cloud platforms, DevOps, and enterprise architecture,
 - Multi-tenant architecture for business stores.  
 - Automated inventory, variant handling, and reporting.  
 
-### 3. **Analytics Platform**
-- Ingested large datasets (1GB+) and built interactive dashboards.  
+### 3. [Introzen BI - Analytics Platform](https://introzenbi.vercel.app/)
+- Materialized Parquet is read in streamed batches, so windowed reads cost the same whether the dataset holds thousands or millions of rows.
+- Transformations use nullable pandas dtypes, which keeps type coercion predictable and avoids silent object-column fallbacks.
+- Derived chart series and summary aggregations are memoised, so resizing or re-filtering a dashboard does not recompute data.
+- A pipeline cannot queue a second run while one is pending or running, which prevents duplicate work from repeated clicks.
 - Implemented caching, rate limiting, and reliable APIs for performance.
 
 ### 4. [FastAPI Shipping Service (Shippo Integration)](https://github.com/zisanurhaque/shippo-fastapi)
